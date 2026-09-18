@@ -2,4 +2,3 @@ I am interested in theoretical computer science, especially formal verification/
 
 Some of my work that is not listed here can be found on my [codeberg account](https://codeberg.org/cascade).
 
-[More about me](https://cascade77.github.io/)
